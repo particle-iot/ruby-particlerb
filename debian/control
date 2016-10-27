@@ -1,15 +1,15 @@
 Source: ruby-particlerb
 Section: ruby
 Priority: optional
-Maintainer: Debian Ruby Extras Maintainers <pkg-ruby-extras-maintainers@lists.alioth.debian.org>
-Uploaders: <>
+Maintainer: Julien Vanier <julien@particle.io>
+Uploaders: Julien Vanier <julien@particle.io>
 Build-Depends: debhelper (>= 9~),
                gem2deb,
                ruby-faraday (>= 0.9.0),
                ruby-faraday-middleware (>= 0.9.0)
 Standards-Version: 3.9.7
-Vcs-Git: https://anonscm.debian.org/git/pkg-ruby-extras/ruby-particlerb.git
-Vcs-Browser: https://anonscm.debian.org/cgit/pkg-ruby-extras/ruby-particlerb.git
+Vcs-Git: https://github.com/spark/ruby-particlerb.git
+Vcs-Browser: https://github.com/spark/ruby-particlerb.git
 Homepage: https://github.com/monkbroc/particlerb
 Testsuite: autopkgtest-pkg-ruby
 XS-Ruby-Versions: all

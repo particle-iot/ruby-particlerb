@@ -1,5 +1,5 @@
-ruby-particlerb (1.2.0-1) UNRELEASED; urgency=medium
+ruby-particlerb (1.2.0-1) unstable; urgency=medium
 
-  * Initial release (Closes: #nnnn)
+  * RubyGems release 1.2.0
 
- -- Julien Vanier <monkbroc@julien-xps13>  Thu, 27 Oct 2016 16:15:37 -0400
+ -- Julien Vanier <julien@particle.io>  Thu, 27 Oct 2016 16:15:37 -0400
