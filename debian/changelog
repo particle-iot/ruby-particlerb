@@ -1,5 +1,5 @@
-ruby-particlerb (1.2.0-1) unstable; urgency=medium
+ruby-particlerb (1.3.0-1) unstable; urgency=medium
 
-  * RubyGems release 1.2.0
+  * Add device provisioning
 
- -- Julien Vanier <julien@particle.io>  Thu, 27 Oct 2016 16:15:37 -0400
+ -- Julien Vanier <julien@particle.io>  Tue, 08 Nov 2016 11:49:27 -0500
