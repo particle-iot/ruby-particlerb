@@ -1,5 +1,5 @@
-ruby-particlerb (1.3.0-1) unstable; urgency=medium
+ruby-particlerb (1.3.1-1) unstable; urgency=medium
 
-  * Add device provisioning
+  * Fix device provisioning endpoint
 
- -- Julien Vanier <julien@particle.io>  Tue, 08 Nov 2016 11:49:27 -0500
+ -- Julien Vanier <julien@particle.io>  Thu, 26 Jan 2017 11:32:07 -0500
